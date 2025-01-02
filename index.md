@@ -2,22 +2,15 @@
 title: Welcome to Alex-Gongora Gitpages
 ---
 
-# Testing out Gitpages
-
-Well looky here, we hosting our own page now ya'all  
-Shout out to **Obsidian** for making me get started down this road and for giving me the drive to collect *my-pages*.
-
-
-Awww yeahh!!!
-
-## Here is where the guild of Ducain will be Hosted
-
 **Alex Gongora**  
 3054 Glenmanor Place, Victoria BC, V9C 1M8
 
 C: (250) 858-2803  
 E: alex.gongora@live.com
-W: www.alexgongora.site
+W: [www.alexgongora.site](www.alexgongora.site)
+B: [www.leadandpaper.online](www.leadandpaper.online)
+
+<br>
 
 
 > [!info]- Quick Note  
@@ -28,6 +21,8 @@ W: www.alexgongora.site
 > 
 > At the bottom, I have attached a *plain text* copy that is good for printing or ATS. 😉
 
+
+<br>
 
 
 
@@ -115,6 +110,7 @@ W: www.alexgongora.site
  
 
 
+<br>
 
 
 ## EXPERIENCE
@@ -125,6 +121,8 @@ W: www.alexgongora.site
 Victoria Multi Service -  
 Immigration support and Homestay services    
 05/2019- 03/2024  
+
+<br>
 
 
 > [!info]- What happened?  
@@ -146,6 +144,7 @@ Immigration support and Homestay services
 > 
 
 
+<br>
 
 
 
@@ -180,6 +179,7 @@ ESW IT Business Advisors, Calgary Alberta
 > - **As a Project Manager**: Managed large-scale three-year project to develop subscription service offerings to complement existing support services. This included managing 8 senior leaders from 5 different departments, and tactfully handling all the drama that comes with it.
 
 
+<br>
 
 
 
@@ -190,7 +190,7 @@ PC Depot, Playa del Carmen, Mexico
 
 
 - Tasked with resolving issues with knowledge transfer between departments, and improving internal communications, the following solutions were implemented:
-
+  
  - Scheduled 1 on 1 time, support sessions for re-directing problematic behavior, and conducting general performance reviews. Reduced employee turnover from 18% to 12% in the busy Calgary tech sector. 
 
 - Led initiative to consolidate documentation on MS SharePoint and GitHub to create a knowledge base. This streamlined the process of gathering information and saved the company $33,000/year in third party licensing fees.
@@ -199,12 +199,11 @@ PC Depot, Playa del Carmen, Mexico
  
 - Implemented new policies to standardize the use of a single communications platform. Microsoft Teams replaced Skype for Business and allowed for multiple departments to communicate more efficiently and improving project task completion by an average of 10% across departments.
 
-- Planned, strategized, and allocated financial and team resources to establish an additional high tier service desk team with increased interpersonal and communication training. As a result, High level clients were offered 24-	hour support services and overhead costs were offset by revenue from increased out of scope services and after-hours onsite visits. Achieved higher quality of service and value delivery at minimal cost.  
+- Planned, strategized, and allocated financial and team resources to establish an additional high tier service desk team with increased interpersonal and communication training. As a result, High level clients were offered 24-	hour support services and overhead costs were offset by revenue from increased out of scope services and after-hours onsite visits. Achieved higher quality of service and value delivery at minimal cost. 
   
-  
-  
-  
-  
+
+<br>
+
 **Support Team Lead**  
 *Customer Support Services*  
 Don Caseto, Playa Del Carmen, Mexico  
@@ -221,6 +220,7 @@ Don Caseto, Playa Del Carmen, Mexico
 
 
 
+<br>
 
 
 
@@ -233,6 +233,7 @@ Don Caseto, Playa Del Carmen, Mexico
 - [CompTIA](https://www.comptia.org/)  - Computing Technology Industry Association
 - [ISC2](https://www.isc2.org/)          - Global Cybersecurity Leader
 
+<br>
 
 
 ## EDUCATION:
@@ -245,9 +246,16 @@ Don Caseto, Playa Del Carmen, Mexico
 - Certificate in Business analysis
   Camosun College                                                       2019-2020
   
+> [!important]- I’m not braggin…
+> but check out the GPA
+> <img src="src/site/img/alex_grades1.jpg" alt="My Grades" />
+
+
+  
 - BTech, Information Management Systems,
   Universidad Anahuac – Cancun, Mexico		       2009-2012
 
+<br>
 
 
 ## CERTIFICATIONS:
@@ -263,6 +271,10 @@ Don Caseto, Playa Del Carmen, Mexico
 - Microsoft Certified Professional (MCP)  
   
 - Google – Digital Marketing Certificate
+
+
+
+
 
 
 
